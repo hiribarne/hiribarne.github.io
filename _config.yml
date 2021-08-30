@@ -1,0 +1,8 @@
+title: Roberto Hiribarne Guedes
+description: My Personal GitHub's Page
+google_analytics: UA-46052530-1
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
